@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7acd28ed-711d-4082-8a31-1338d5ebdd46" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_2222_Tgyl.coverage" NAME="Nosetests for test_2222.Tgyl Coverage Results" MODIFIED="1525337885404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_order51_land_test_login11.coverage" NAME="Nosetests for test_order51.land.test_login11 Coverage Results" MODIFIED="1527653126822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_01_land.coverage" NAME="Nosetests for test_01.land Coverage Results" MODIFIED="1528083316051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_01_land_test_login01.coverage" NAME="Nosetests for test_01.land.test_login01 Coverage Results" MODIFIED="1527664461854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_tese_50_py.coverage" NAME="Nosetests in tese_50.py Coverage Results" MODIFIED="1524730593104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_03_Forward_to_room.coverage" NAME="Nosetests for test_03.Forward_to_room Coverage Results" MODIFIED="1527132100586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_true$run_send_email.coverage" NAME="run_send_email Coverage Results" MODIFIED="1528076069945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$browser.coverage" NAME="browser Coverage Results" MODIFIED="1520217488011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_order51_land_test_login02.coverage" NAME="Nosetests for test_order51.land.test_login02 Coverage Results" MODIFIED="1527585908167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_dome_12_Bolg_test_01.coverage" NAME="Nosetests for dome_12.Bolg.test_01 Coverage Results" MODIFIED="1522743971907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_10_land.coverage" NAME="Nosetests for test_10.land Coverage Results" MODIFIED="1527758044355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_room.coverage" NAME="dj_room Coverage Results" MODIFIED="1522058808898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tesq_02_Forward_to_room.coverage" NAME="Nosetests for tesq_02.Forward_to_room Coverage Results" MODIFIED="1527126690906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_07_land.coverage" NAME="Nosetests for test_07.land Coverage Results" MODIFIED="1527133825425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_make_report_UiAutoTestCase_test_success_case_img.coverage" NAME="Nosetests for test_make_report.UiAutoTestCase.test_success_case_img Coverage Results" MODIFIED="1526291848194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_romm02.coverage" NAME="dj_romm02 Coverage Results" MODIFIED="1524130582524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_room02.coverage" NAME="dj_room02 Coverage Results" MODIFIED="1526888356720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$546.coverage" NAME="546 Coverage Results" MODIFIED="1520332493029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/123" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_02_land_test_login01.coverage" NAME="Nosetests for test_02.land.test_login01 Coverage Results" MODIFIED="1524130700301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_true$dj_order_50.coverage" NAME="dj_order_50 Coverage Results" MODIFIED="1527662195603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_02_land.coverage" NAME="Nosetests for test_02.land Coverage Results" MODIFIED="1526279027508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$run.coverage" NAME="run Coverage Results" MODIFIED="1526293748856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_run_all_case" />
+    <SUITE FILE_PATH="coverage/dome_03$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1527068651534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_order51_land_test_login02.coverage" NAME="Nosetests for t_order51.land.test_login02 Coverage Results" MODIFIED="1526896764599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$text_04.coverage" NAME="text_04 Coverage Results" MODIFIED="1522122146274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tesq_02_land.coverage" NAME="Nosetests for tesq_02.land Coverage Results" MODIFIED="1526875694074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_true$dj_order_51.coverage" NAME="dj_order_51 Coverage Results" MODIFIED="1527585953692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_order_50_land.coverage" NAME="Nosetests for test_order_50.land Coverage Results" MODIFIED="1526282342613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_order50_land.coverage" NAME="Nosetests for test_order50.land Coverage Results" MODIFIED="1526959920308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1527160064013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_run_all_case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_room_02_py.coverage" NAME="Nosetests in test_room_02.py Coverage Results" MODIFIED="1523587436412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$paixu.coverage" NAME="paixu Coverage Results" MODIFIED="1526374834016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_make_report_UiAutoTestCase.coverage" NAME="Nosetests for test_make_report.UiAutoTestCase Coverage Results" MODIFIED="1526284580008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_order50_land_test_login01.coverage" NAME="Nosetests for test_order50.land.test_login01 Coverage Results" MODIFIED="1526958314952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$dome_25.coverage" NAME="dome_25 Coverage Results" MODIFIED="1523525375641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_order51_land.coverage" NAME="Nosetests for t_order51.land Coverage Results" MODIFIED="1526898142961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$logger.coverage" NAME="logger Coverage Results" MODIFIED="1520827503992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/dome_03$50.coverage" NAME="50 Coverage Results" MODIFIED="1524715217464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_02_py.coverage" NAME="Nosetests in test_02.py Coverage Results" MODIFIED="1524130798484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_03_py.coverage" NAME="Nosetests in test_03.py Coverage Results" MODIFIED="1524627234394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_01_py.coverage" NAME="Nosetests in test_01.py Coverage Results" MODIFIED="1526020236051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_t_order51_py.coverage" NAME="Nosetests in t_order51.py Coverage Results" MODIFIED="1526896420456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_04_Forward_to_room_test_login02.coverage" NAME="Nosetests for test_04.Forward_to_room.test_login02 Coverage Results" MODIFIED="1527130168368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_tesq_02_py.coverage" NAME="Nosetests in tesq_02.py Coverage Results" MODIFIED="1526888035853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_room_01_py.coverage" NAME="Nosetests in test_room_01.py Coverage Results" MODIFIED="1524124026808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_text_room_02_py.coverage" NAME="Nosetests in text_room_02.py Coverage Results" MODIFIED="1522410591084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuits" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tesq_02_Forward_to_room_test_login02.coverage" NAME="Nosetests for tesq_02.Forward_to_room.test_login02 Coverage Results" MODIFIED="1527126480440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_order50_land.coverage" NAME="Nosetests for t_order50.land Coverage Results" MODIFIED="1526350983424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_in_test_order50_py.coverage" NAME="Nosetests in test_order50.py Coverage Results" MODIFIED="1527662258080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$dome_12.coverage" NAME="dome_12 Coverage Results" MODIFIED="1524294662018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z_run_all_case" />
+    <SUITE FILE_PATH="coverage/dome_03$text_055.coverage" NAME="text_055 Coverage Results" MODIFIED="1525857831797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tes_order50_land_test_login01.coverage" NAME="Nosetests for tes_order50.land.test_login01 Coverage Results" MODIFIED="1526899771306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tese_50_land.coverage" NAME="Nosetests for tese_50.land Coverage Results" MODIFIED="1524733689054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_dome_23_Bolg.coverage" NAME="Nosetests for dome_23.Bolg Coverage Results" MODIFIED="1523418645881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_order50_land.coverage" NAME="Nosetests for test_order50.land Coverage Results" MODIFIED="1527663012584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_text_room_02_land.coverage" NAME="Nosetests for text_room_02.land Coverage Results" MODIFIED="1522410881023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuits" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_03_land_test_login01.coverage" NAME="Nosetests for test_03.land.test_login01 Coverage Results" MODIFIED="1524564232491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_room50.coverage" NAME="dj_room50 Coverage Results" MODIFIED="1524732128168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_01_land.coverage" NAME="Nosetests for test_01.land Coverage Results" MODIFIED="1526893718653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_05_Forward_to_room.coverage" NAME="Nosetests for test_05.Forward_to_room Coverage Results" MODIFIED="1527132032304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_14_land.coverage" NAME="Nosetests for test_14.land Coverage Results" MODIFIED="1527762521344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system/b_Invoice_management" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_2222_py.coverage" NAME="Nosetests in test_2222.py Coverage Results" MODIFIED="1525337829986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tese_50_land_test_login01.coverage" NAME="Nosetests for tese_50.land.test_login01 Coverage Results" MODIFIED="1524734230375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_true$jiekou.coverage" NAME="jiekou Coverage Results" MODIFIED="1528105351653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a练习/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_03$dome_26.coverage" NAME="dome_26 Coverage Results" MODIFIED="1524034222784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_texe_3_Login_test_01.coverage" NAME="Nosetests for texe_3.Login.test_01 Coverage Results" MODIFIED="1521790862387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_5_py.coverage" NAME="Nosetests in test_5.py Coverage Results" MODIFIED="1522122947715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_room_02_land.coverage" NAME="Nosetests for test_room_02.land Coverage Results" MODIFIED="1524109576500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_order51_land.coverage" NAME="Nosetests for test_order51.land Coverage Results" MODIFIED="1527663296422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$dome_11.coverage" NAME="dome_11 Coverage Results" MODIFIED="1523413224264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_order_51.coverage" NAME="dj_order_51 Coverage Results" MODIFIED="1526897087679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_text_04_Test_test02.coverage" NAME="Nosetests for text_04.Test.test02 Coverage Results" MODIFIED="1522117892199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tesq_03_land.coverage" NAME="Nosetests for tesq_03.land Coverage Results" MODIFIED="1526893533418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_order3_land.coverage" NAME="Nosetests for t_order3.land Coverage Results" MODIFIED="1524212468946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_room_02_land_test_login01.coverage" NAME="Nosetests for test_room_02.land.test_login01 Coverage Results" MODIFIED="1524109368298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_04_py.coverage" NAME="Nosetests in test_04.py Coverage Results" MODIFIED="1527131313290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_yuanqi_land.coverage" NAME="Nosetests for test_yuanqi.land Coverage Results" MODIFIED="1524042346551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_11_land.coverage" NAME="Nosetests for test_11.land Coverage Results" MODIFIED="1527760338382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_text_04_Test.coverage" NAME="Nosetests for text_04.Test Coverage Results" MODIFIED="1522118002475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$789.coverage" NAME="789 Coverage Results" MODIFIED="1520332836369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/123" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_06_land.coverage" NAME="Nosetests for test_06.land Coverage Results" MODIFIED="1527132173160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tesq_02_land_test_login02.coverage" NAME="Nosetests for tesq_02.land.test_login02 Coverage Results" MODIFIED="1526874635449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_room03.coverage" NAME="dj_room03 Coverage Results" MODIFIED="1527131205444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_12_land.coverage" NAME="Nosetests for test_12.land Coverage Results" MODIFIED="1527761161167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system/b_Invoice_management" />
+    <SUITE FILE_PATH="coverage/dome_03$dj_romm03.coverage" NAME="dj_romm03 Coverage Results" MODIFIED="1524206471002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tes_order50_land.coverage" NAME="Nosetests for tes_order50.land Coverage Results" MODIFIED="1526952480076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_03_land.coverage" NAME="Nosetests for test_03.land Coverage Results" MODIFIED="1524563680849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_09_land.coverage" NAME="Nosetests for test_09.land Coverage Results" MODIFIED="1527757913548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$find.coverage" NAME="find Coverage Results" MODIFIED="1526874511700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_01_land_test_login01.coverage" NAME="Nosetests for test_01.land.test_login01 Coverage Results" MODIFIED="1526875318038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_order3_land_test_login01.coverage" NAME="Nosetests for test_order3.land.test_login01 Coverage Results" MODIFIED="1524042889468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_in_test_13_py.coverage" NAME="Nosetests in test_13.py Coverage Results" MODIFIED="1527762019535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system/b_Invoice_management" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_room_01_land.coverage" NAME="Nosetests for t_room_01.land Coverage Results" MODIFIED="1524210034715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_in_test_order50_py.coverage" NAME="Nosetests in test_order50.py Coverage Results" MODIFIED="1526958033110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_订单" />
+    <SUITE FILE_PATH="coverage/dome_true$run.coverage" NAME="run Coverage Results" MODIFIED="1527239158393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_dome_12_Bolg.coverage" NAME="Nosetests for dome_12.Bolg Coverage Results" MODIFIED="1522744036197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_10_land_test_login09.coverage" NAME="Nosetests for test_10.land.test_login09 Coverage Results" MODIFIED="1527758001127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_13_land.coverage" NAME="Nosetests for test_13.land Coverage Results" MODIFIED="1527761996422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system/b_Invoice_management" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_07_land.coverage" NAME="Nosetests for test_07.land Coverage Results" MODIFIED="1527239631200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_2222_Tgyl_test_01.coverage" NAME="Nosetests for test_2222.Tgyl.test_01 Coverage Results" MODIFIED="1525337559645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_room_01_land.coverage" NAME="Nosetests for test_room_01.land Coverage Results" MODIFIED="1524124085935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_true$Nosetests_for_test_08_land.coverage" NAME="Nosetests for test_08.land Coverage Results" MODIFIED="1527756911263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/operating_system" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_tess_01_land_test_login01.coverage" NAME="Nosetests for tess_01.land.test_login01 Coverage Results" MODIFIED="1524290263304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_order3_land.coverage" NAME="Nosetests for test_order3.land Coverage Results" MODIFIED="1524042868905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_text_room_02_land_test_login01.coverage" NAME="Nosetests for text_room_02.land.test_login01 Coverage Results" MODIFIED="1522409783042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuits" />
+    <SUITE FILE_PATH="coverage/dome_true$run_fasongbaogao.coverage" NAME="run_fasongbaogao Coverage Results" MODIFIED="1527839324563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_04_Forward_to_room.coverage" NAME="Nosetests for test_04.Forward_to_room Coverage Results" MODIFIED="1527131834569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/room" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_test_room_01_land_test_login01.coverage" NAME="Nosetests for test_room_01.land.test_login01 Coverage Results" MODIFIED="1524125076028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/case_all" />
+    <SUITE FILE_PATH="coverage/dome_03$dome_24.coverage" NAME="dome_24 Coverage Results" MODIFIED="1523418199869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_t_order3_land_test_login01.coverage" NAME="Nosetests for t_order3.land.test_login01 Coverage Results" MODIFIED="1524212465781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/dome_03$Nosetests_for_text_055_TestScreenshot.coverage" NAME="Nosetests for text_055.TestScreenshot Coverage Results" MODIFIED="1520836756695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_study" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_12.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="49" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jiekou.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a练习/lianxi/jiekou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>parentheses</find>
+      <find>template_path</find>
+      <find>result</find>
+      <find>template</find>
+      <find>BeautifulReport</find>
+      <find>rb</find>
+      <find>wb</find>
+      <find>function</find>
+      <find>suite</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\dome_03\testsuits</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pageobjects/dj_room05.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_room03.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_room06.py" />
+        <option value="$PROJECT_DIR$/case/room/test_07.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_room07.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_center.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_07.py" />
+        <option value="$PROJECT_DIR$/z_run_all_case/run_all_case.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/run_all_case.py" />
+        <option value="$PROJECT_DIR$/z_run_all_case/run_all_discover.py" />
+        <option value="$PROJECT_DIR$/a_study/text_055.py" />
+        <option value="$PROJECT_DIR$/public/find.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_order_50.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_order_51.py" />
+        <option value="$PROJECT_DIR$/public/logoin.py" />
+        <option value="$PROJECT_DIR$/pageobjects/dj_room01.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_08.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operatings_10.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_09.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/test_10.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/test_09.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/test_07.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/test_08.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/test_11.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_11.py" />
+        <option value="$PROJECT_DIR$/pageobjects/operations_10.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Invoice_12.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Invoice_13.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Invoice_14.py" />
+        <option value="$PROJECT_DIR$/run_fasongbaogao.py" />
+        <option value="$PROJECT_DIR$/text" />
+        <option value="$PROJECT_DIR$/run_send_email.py" />
+        <option value="$PROJECT_DIR$/public/browser_0.py" />
+        <option value="$PROJECT_DIR$/case/room/test_01.py" />
+        <option value="$PROJECT_DIR$/case/room/test_02.py" />
+        <option value="$PROJECT_DIR$/case/room/test_03.py" />
+        <option value="$PROJECT_DIR$/case/room/test_04.py" />
+        <option value="$PROJECT_DIR$/case/room/test_05.py" />
+        <option value="$PROJECT_DIR$/case/room/test_06.py" />
+        <option value="$PROJECT_DIR$/case/case_订单/test_order50.py" />
+        <option value="$PROJECT_DIR$/case/case_订单/test_order51.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/a_The_order_management/test_07.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/a_The_order_management/test_08.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/a_The_order_management/test_11.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/a_The_order_management/test_10.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/a_The_order_management/test_09.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_12.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_13.py" />
+        <option value="$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_14.py" />
+        <option value="$PROJECT_DIR$/a练习/lianxi/jiekou.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="780" />
+    <option name="y" value="359" />
+    <option name="width" value="1165" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+              <item name="a练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+              <item name="a练习" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="operating_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome_true" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome_true" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="operating_system" type="462c0819:PsiDirectoryNode" />
+              <item name="b_Invoice_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="SearchEverywhereHistoryKey" value="set back&#9;ACTION&#9;Images.SetBackgroundImage&#10;set bac&#9;ACTION&#9;Images.SetBackgroundImage" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dome_03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dome_true\case" />
+      <recent name="D:\dome_true\z_run_all_case" />
+      <recent name="D:\dome_true\case\operating_system" />
+      <recent name="D:\dome_true\a练习" />
+      <recent name="D:\dome_true\case\operating_system\The_order_management" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.jiekou">
+    <configuration name="jiekou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a练习/lianxi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a练习/lianxi/jiekou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_fasongbaogao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\dome_true\run_send_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_send_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_send_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Nosetests for case.operating_system.b_Invoice_management.test_14.land" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/operating_system/b_Invoice_management" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case.operating_system.b_Invoice_management.test_14.land&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Nosetests for test_01.land" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/room" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_01.land&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Nosetests for test_make_report.UiAutoTestCase" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dome_03" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_make_report.UiAutoTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests for case.operating_system.b_Invoice_management.test_14.land" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_fasongbaogao" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_send_email" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_01.land" />
+      <item index="4" class="java.lang.String" itemvalue="Python.jiekou" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.jiekou" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_01.land" />
+        <item index="2" class="java.lang.String" itemvalue="Python.run_send_email" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run_fasongbaogao" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for case.operating_system.b_Invoice_management.test_14.land" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7acd28ed-711d-4082-8a31-1338d5ebdd46" name="Default" comment="" />
+      <created>1519895046597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519895046597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_test_01_land - 2018.06.04 at 11h 21m 22s.xml">
+      <configuration name="Nosetests for test_01.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_01_land - 2018.06.04 at 11h 22m 27s.xml">
+      <configuration name="Nosetests for test_01.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_01_land - 2018.06.04 at 11h 25m 42s.xml">
+      <configuration name="Nosetests for test_01.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_01_land - 2018.06.04 at 11h 35m 28s.xml">
+      <configuration name="Nosetests for test_01.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_12_land - 2018.05.31 at 18h 06m 13s.xml">
+      <configuration name="Nosetests for test_12.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_13_land - 2018.05.31 at 18h 20m 08s.xml">
+      <configuration name="Nosetests for test_13.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_14_land - 2018.05.31 at 18h 22m 46s.xml">
+      <configuration name="Nosetests for test_14.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_14_land - 2018.05.31 at 18h 28m 16s.xml">
+      <configuration name="Nosetests for test_14.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_14_land - 2018.05.31 at 18h 28m 53s.xml">
+      <configuration name="Nosetests for test_14.land" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_13_py - 2018.05.31 at 18h 20m 34s.xml">
+      <configuration name="Nosetests in test_13.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="780" y="359" width="1165" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34620887" sideWeight="0.50319487" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.4968051" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2710027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821342" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36078432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18194254" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a练习/lianxi/dome_11.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a练习/lianxi/dome_11.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a练习/lianxi/dome_11.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a练习/lianxi/dome_11.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a练习/lianxi/dome_11.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result/2018_05_30_15_07_45.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/dj_room01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/2018_05_30_15_15_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/operations_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/operations_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/dj_room05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/operations_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/operations_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/operations_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Invoice_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Invoice_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Invoice_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/case_订单/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/paixu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/text_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/dome_26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/2018_06_01_16_25_39.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/b_Invoice_management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/result.html" />
+    <entry file="file://$PROJECT_DIR$/report/result.html" />
+    <entry file="file://$PROJECT_DIR$/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="65" lean-forward="false" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="97" column="60" lean-forward="false" selection-start-line="97" selection-start-column="60" selection-end-line="97" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/room/test_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/case_订单/test_order50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/browser_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/case_订单/test_order51.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/test_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/test_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/test_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/test_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/a_The_order_management/test_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/operating_system/b_Invoice_management/test_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a练习/lianxi/jiekou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
